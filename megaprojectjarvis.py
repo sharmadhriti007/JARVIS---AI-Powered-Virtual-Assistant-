@@ -282,7 +282,7 @@ def processCommand(command):
         speak("I'm not sure how to help with that. Could you please try another command?")
 
 if __name__ == "__main__":
-    speak("Initializing virtual assistant... Hello! I am Jarvis, an advanced AI assistant designed and developed by Ashwin Sharma. I'm here to enhance your digital experience.")
+    speak("Initializing virtual assistant... Hello! I am Jarvis, an advanced AI assistant designed and developed by Dhriti Sharma. I'm here to enhance your digital experience.")
     speak("Here are some things I can do for you:")
     speak("1. Open and search on websites like Google, YouTube, LinkedIn, and Instagram")
     speak("2. Send WhatsApp messages")
@@ -315,4 +315,5 @@ if __name__ == "__main__":
                     command = recognizer.recognize_google(audio)
                     processCommand(command)
         except Exception as e:
+
             print(f"Error: {e}")
