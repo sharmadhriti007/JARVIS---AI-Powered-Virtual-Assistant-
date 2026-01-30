@@ -69,8 +69,8 @@ Contributions are welcome! Follow these steps:
 
 
 ## Author 👨‍💻
-**Ashwin Sharma**
-- GitHub: [@AshwinSharma-git](https://github.com/AshwinSharma-git)
-- LinkedIn: [Ashwin Sharma](https://linkedin.com/in/ashwinsharma2)
+**Dhriti Sharma**
+- GitHub: [@sharmadhriti007](https://github.com/sharmadhriti007)
+- LinkedIn: [Dhriti Sharma](https://www.linkedin.com/in/dhriti-sharma10/)
 
 
